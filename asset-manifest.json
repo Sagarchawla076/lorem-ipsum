@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lorem-ipsum/static/css/main.ab4a6dc3.chunk.css",
+    "main.js": "/lorem-ipsum/static/js/main.f2814aae.chunk.js",
+    "main.js.map": "/lorem-ipsum/static/js/main.f2814aae.chunk.js.map",
+    "runtime-main.js": "/lorem-ipsum/static/js/runtime-main.d47a5494.js",
+    "runtime-main.js.map": "/lorem-ipsum/static/js/runtime-main.d47a5494.js.map",
+    "static/js/2.ba428daf.chunk.js": "/lorem-ipsum/static/js/2.ba428daf.chunk.js",
+    "static/js/2.ba428daf.chunk.js.map": "/lorem-ipsum/static/js/2.ba428daf.chunk.js.map",
+    "index.html": "/lorem-ipsum/index.html",
+    "static/css/main.ab4a6dc3.chunk.css.map": "/lorem-ipsum/static/css/main.ab4a6dc3.chunk.css.map",
+    "static/js/2.ba428daf.chunk.js.LICENSE.txt": "/lorem-ipsum/static/js/2.ba428daf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d47a5494.js",
+    "static/js/2.ba428daf.chunk.js",
+    "static/css/main.ab4a6dc3.chunk.css",
+    "static/js/main.f2814aae.chunk.js"
+  ]
+}
